@@ -921,16 +921,43 @@
          "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":354,
-         "source":"Wand.tsx"
+         "image":"Wand.png",
+         "imageheight":64,
+         "imagewidth":32,
+         "margin":0,
+         "name":"Wand",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":356,
-         "source":"Wand mit Leiste.tsx"
+         "image":"Wand mit Leiste.png",
+         "imageheight":64,
+         "imagewidth":32,
+         "margin":0,
+         "name":"Wand mit Leiste",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":358,
-         "source":"Wand mit Leiste_1.tsx"
+         "image":"Wand mit Leiste_1.png",
+         "imageheight":64,
+         "imagewidth":32,
+         "margin":0,
+         "name":"Wand mit Leiste_1",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":3,
@@ -942,6 +969,32 @@
          "name":"Wand Verlauf Leiste",
          "spacing":0,
          "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":3,
+         "firstgid":366,
+         "image":"Wand Verlauf Leiste.png",
+         "imageheight":64,
+         "imagewidth":96,
+         "margin":0,
+         "name":"Wand Verlauf Leiste",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":372,
+         "image":"Wand rechts.png",
+         "imageheight":64,
+         "imagewidth":32,
+         "margin":0,
+         "name":"Wand rechts",
+         "spacing":0,
+         "tilecount":2,
          "tileheight":32,
          "tilewidth":32
         }],
