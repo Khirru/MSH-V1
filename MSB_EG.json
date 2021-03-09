@@ -140,7 +140,7 @@
         {
          "columns":2,
          "firstgid":354,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/Raum15-tuer-64x96.png",
+         "image":"Raum15-tuer-64x96.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
@@ -153,7 +153,7 @@
         {
          "columns":1,
          "firstgid":360,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/Samt.png",
+         "image":"Samt.png",
          "imageheight":96,
          "imagewidth":32,
          "margin":0,
@@ -166,7 +166,7 @@
         {
          "columns":1,
          "firstgid":363,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/Samt.png",
+         "image":"Samt.png",
          "imageheight":96,
          "imagewidth":32,
          "margin":0,
@@ -179,7 +179,7 @@
         {
          "columns":2,
          "firstgid":366,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/Raum15-tuer-64x96-2.png",
+         "image":"Raum15-tuer-64x96-2.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
@@ -192,7 +192,7 @@
         {
          "columns":1,
          "firstgid":372,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/Wand-fuellung.png",
+         "image":"Wand-fuellung.png",
          "imageheight":96,
          "imagewidth":32,
          "margin":0,
@@ -205,7 +205,7 @@
         {
          "columns":6,
          "firstgid":375,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/Raum15-tuer-192x96.png",
+         "image":"Raum15-tuer-192x96.png",
          "imageheight":96,
          "imagewidth":192,
          "margin":0,
@@ -218,7 +218,7 @@
         {
          "columns":2,
          "firstgid":393,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/Stern-Parkett.png",
+         "image":"Stern-Parkett.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -231,7 +231,7 @@
         {
          "columns":5,
          "firstgid":397,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/teppich-raum15-lila.png",
+         "image":"teppich-raum15-lila.png",
          "imageheight":160,
          "imagewidth":160,
          "margin":0,
@@ -244,7 +244,7 @@
         {
          "columns":5,
          "firstgid":422,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/teppich-raum15-rot.png",
+         "image":"teppich-raum15-rot.png",
          "imageheight":160,
          "imagewidth":160,
          "margin":0,
@@ -257,7 +257,7 @@
         {
          "columns":1,
          "firstgid":447,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/teppich-raum15-bunt.png",
+         "image":"teppich-raum15-bunt.png",
          "imageheight":128,
          "imagewidth":32,
          "margin":0,
@@ -270,7 +270,7 @@
         {
          "columns":5,
          "firstgid":451,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/teppich-flur.png",
+         "image":"teppich-flur.png",
          "imageheight":32,
          "imagewidth":160,
          "margin":0,
@@ -283,7 +283,7 @@
         {
          "columns":5,
          "firstgid":456,
-         "image":"..\/..\/..\/Videos\/MSB Workadventure\/Pixelart\/teppich-flur-rot.png",
+         "image":"teppich-flur-rot.png",
          "imageheight":32,
          "imagewidth":160,
          "margin":0,
