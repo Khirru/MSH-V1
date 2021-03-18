@@ -432,7 +432,7 @@
         {
          "columns":50,
          "firstgid":321,
-         "image":"..\/1_SiemensVillaTiles.png",
+         "image":"1_SiemensVillaTiles.png",
          "imageheight":1600,
          "imagewidth":1600,
          "margin":0,
@@ -1638,7 +1638,7 @@
         {
          "columns":94,
          "firstgid":2861,
-         "image":"..\/gartenVilla.png",
+         "image":"gartenVilla.png",
          "imageheight":3150,
          "imagewidth":3008,
          "margin":0,
